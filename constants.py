@@ -1,2 +1,2 @@
-open_ai_key='sk-proj-3pVGkB6gtE6b4BMWeXz6T3BlbkFJ611YbDTwC6fsx8Ze6Rlb'
+open_ai_key=''
 
